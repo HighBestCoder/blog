@@ -1,8 +1,13 @@
-title: My Blog
-email: your-email@example.com
-description: >- 
-  This is my blog.
+title: HighBestCoder's Blog
+description: This is my personal blog.
 baseurl: "" 
 url: "https://highbestcoder.github.io/blog" 
-twitter_username: yourtwitter
-github_username:  HighBestCoder
+
+# 主题特定配置
+gitbook:
+  search: true
+  download: ["pdf", "epub"]
+  github:
+    url: https://github.com/HighBestCoder/blog
+  logo: /assets/images/logo.png
+  favicon: /assets/images/favicon.ico
