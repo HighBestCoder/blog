@@ -1,6 +1,6 @@
 title: HighBestCoder's Blog
 description: This is my personal blog.
-baseurl: "" 
+baseurl: "https://highbestcoder.github.io/blog"
 url: "https://highbestcoder.github.io/blog" 
 
 # 主题特定配置
