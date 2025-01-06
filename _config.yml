@@ -1,13 +1,21 @@
+# 基本配置
 title: HighBestCoder's Blog
 description: This is my personal blog.
-baseurl: "https://highbestcoder.github.io/blog"
-url: "https://highbestcoder.github.io/blog" 
+baseurl: "/blog"  # 子路径
+url: "https://highbestcoder.github.io"  # 根域名
 
-# 主题特定配置
+# 主题配置
+theme: jekyll-gitbook  # 确保主题名称正确
+
 gitbook:
   search: true
   download: ["pdf", "epub"]
   github:
     url: https://github.com/HighBestCoder/blog
-  logo: /assets/images/logo.png
-  favicon: /assets/images/favicon.ico
+  # logo: /assets/images/logo.png  # 如果文件不存在，可以注释掉
+  # favicon: /assets/images/favicon.ico  # 如果文件不存在，可以注释掉
+
+# 其他配置
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
