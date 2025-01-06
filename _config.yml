@@ -4,8 +4,6 @@ description: This is my personal blog.
 baseurl: "/blog"  # 子路径
 url: "https://highbestcoder.github.io"  # 根域名
 
-# 主题配置
-theme: jekyll-gitbook  # 确保主题名称正确
 
 gitbook:
   search: true
