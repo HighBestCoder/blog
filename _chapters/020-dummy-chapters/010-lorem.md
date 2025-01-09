@@ -1,7 +1,7 @@
 ---
 slug: dummy
-title: Lorem ipsum
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: 内核抖动排查
+abstract: 深入内核的数据库抖动排查
 ---
 
 
