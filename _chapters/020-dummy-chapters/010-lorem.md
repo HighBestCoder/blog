@@ -6,13 +6,12 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo
 
 
 
-# 阴差阳错 | 记一次深入内核的数据库抖动排查
+# 记一次深入内核的数据库抖动排查
+
 **作者**：Yriuns
 **链接**：https://zhuanlan.zhihu.com/p/14709946806
 **来源**：知乎
 **著作权声明**：著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
-**TL; DR**：跳转至总结
 
 ## 背景
 我在公司参与一款分布式关系型数据库 (C++)的研发，目前生产环境已经有几百个集群，今天的主角就是其中一个核心业务。
