@@ -15,3 +15,11 @@
     - title: 第三节：LevelDB 的使用场景
       url: /chapter1/section3/
       order: 3
+
+- title: 第二部：Linux性能调优
+  url: /chapter2/
+  order: 3
+  children:
+    - title: 第一节: 示例
+      url: /chapter2/section1/
+      order: 1
